@@ -1,6 +1,6 @@
 package Lesson_HW;
 
-   public class Student {
+   public abstract class Student {
        protected String name;
        protected int runDistance;
        protected int jumpHeight;

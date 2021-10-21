@@ -28,7 +28,7 @@ public class Team {
 
         for (int i = 0; i < 4; i++) {
             if ((course[0] <= team[i].getRunDistance()) && (Math.max(course[1], course[2]) <= team[i].getJumpHeight() ))
-                System.out.println(" Участник команды " + teamName + " " + team[i].getName() + " сумел преодолеть оба барьера, высотой " + course[1] + " и " + course[2] + " см и пробежать дистанцию длиной " + course[0] + " км.");
+                System.out.println(" Участнику команды " + teamName + " по имени "  + team[i].getName() + " удалось преодолеть оба барьера, высотой " + course[1] + " и " + course[2] + " см и пробежать дистанцию длиной " + course[0] + " км.");
         }
 
     }
