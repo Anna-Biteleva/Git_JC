@@ -6,6 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="b8cc1782-e8b9-4bea-be01-77997849899a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HW_1/Boy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HW_1/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HW_1/DoSwim.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HW_1/Girl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HW_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HW_1/Pool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HW_1/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HW_1/Team.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +58,8 @@
       <recent name="Lesson_HW" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\Lesson_HW_1 " />
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\HW_1" />
+      <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\Lesson_HW_1 " />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main (1)">
