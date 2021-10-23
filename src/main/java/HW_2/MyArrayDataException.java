@@ -1,6 +1,8 @@
 package HW_2;
 
-public class MyArrayDataException extends Throwable {
+import java.security.cert.Extension;
+
+public class MyArrayDataException extends Exception {
     public MyArrayDataException(String message) {
         super(message);
     }

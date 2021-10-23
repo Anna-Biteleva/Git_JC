@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8cc1782-e8b9-4bea-be01-77997849899a" name="Changes" comment="" />
+    <list default="true" id="b8cc1782-e8b9-4bea-be01-77997849899a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/HW_2/MyArrayDataException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HW_2/MyArrayDataException.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +40,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Homework_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/HW_2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -49,6 +51,7 @@
       <recent name="Lesson_HW" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\HW_2" />
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\Homework_2" />
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\HW_1" />
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\Lesson_HW_1 " />
