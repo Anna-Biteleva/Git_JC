@@ -14,6 +14,14 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/HW_1/Pool.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/HW_1/Student.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/HW_1/Team.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HW_1/Boy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HW_1/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HW_1/DoSwim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HW_1/Girl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HW_1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HW_1/Pool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HW_1/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HW_1/Team.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,14 +63,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Lesson_2" />
       <recent name="Lesson_HW" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\HW_1" />
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\Lesson_HW_1 " />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\Git_JC\src" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW_1.Main" />
       <module name="J_Core" />
@@ -89,10 +101,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_2.Main" />
+      <module name="J_Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -117,8 +143,23 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Lesson_2/Main.java</url>
+          <line>5</line>
+          <properties class="Lesson_2.Main" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
