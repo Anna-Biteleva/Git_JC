@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8cc1782-e8b9-4bea-be01-77997849899a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HW_1/Boy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HW_1/Course.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HW_1/DoSwim.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HW_1/Girl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HW_1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HW_1/Pool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HW_1/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HW_1/Team.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HW_1/Boy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HW_1/Course.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HW_1/DoSwim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HW_1/Girl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HW_1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HW_1/Pool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HW_1/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HW_1/Team.class" beforeDir="false" />
-    </list>
+    <list default="true" id="b8cc1782-e8b9-4bea-be01-77997849899a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +38,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/HW_1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Homework_2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -67,6 +49,7 @@
       <recent name="Lesson_HW" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\Homework_2" />
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\HW_1" />
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\Lesson_HW_1 " />
     </key>
@@ -88,6 +71,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_2.Main" />
+      <module name="J_Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework_2.Main" />
+      <module name="J_Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson_HW.Main" />
       <module name="J_Core" />
@@ -102,11 +111,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_2.Main" />
+      <option name="MAIN_CLASS_NAME" value="Lesson_HW.Main" />
       <module name="J_Core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_2.*" />
+          <option name="PATTERN" value="Lesson_HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,8 +126,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -151,13 +162,10 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/Lesson_2/Main.java</url>
-          <line>5</line>
-          <properties class="Lesson_2.Main" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="3" />
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Lesson_HW/Main.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
