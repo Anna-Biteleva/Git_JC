@@ -7,10 +7,10 @@ public class Main {
         String [][]  corrArr = new String[4][4];
         String [][]  wrongSizeArr = new String[4][3];
         String[][] wrongDataArr = new String[4][4];
+        corrArr[i][j] = "2";
 
         for (int i = 0; i < corrArr.length; i++){
             for (int j = 0; j < corrArr[i].length; j++) {
-                corrArr[i][j] = "2";
             } }
 
 
