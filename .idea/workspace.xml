@@ -5,7 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8cc1782-e8b9-4bea-be01-77997849899a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_2/MyArrayDataException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson_2/MyArrayDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_10_2021_20_12_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_10_2021_20_12_[Changes]1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_10_2021_20_12__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_10_2021_20_17_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_10_2021_20_17__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_3/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_3/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_3/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_3/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_3/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/HW_2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/HW_2/MyArrayDataException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/HW_2/MyArraySizeException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Lesson_3/Apple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Lesson_3/Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Lesson_3/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Lesson_3/Fruit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Lesson_3/Orange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +42,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Homework_2" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,7 +60,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Homework_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/HW_3" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -59,13 +79,13 @@
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_1.Main" />
+  <component name="RunManager" selected="Application.Array (1)">
+    <configuration name="Array (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_3.Array" />
       <module name="J_Core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_1.*" />
+          <option name="PATTERN" value="HW_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +93,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_2.Main" />
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_3.Array" />
       <module name="J_Core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_2.*" />
+          <option name="PATTERN" value="Lesson_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Box (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_3.Box" />
+      <module name="J_Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_3.Box" />
+      <module name="J_Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,25 +158,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_HW.Main" />
-      <module name="J_Core" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson_HW.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Box" />
+      <item itemvalue="Application.Array" />
+      <item itemvalue="Application.Box (1)" />
+      <item itemvalue="Application.Array (1)" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Array (1)" />
+        <item itemvalue="Application.Box (1)" />
+        <item itemvalue="Application.Box" />
+        <item itemvalue="Application.Array" />
         <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
@@ -169,7 +209,20 @@
           <line>4</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Lesson_3/Box.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/J_Core$Array.ic" NAME="Array Coverage Results" MODIFIED="1635274396777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Lesson_3.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/J_Core$Box.ic" NAME="Box Coverage Results" MODIFIED="1635425700978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Lesson_3.*</FILTER>
+    </SUITE>
   </component>
 </project>
