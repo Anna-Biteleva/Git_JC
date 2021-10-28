@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8cc1782-e8b9-4bea-be01-77997849899a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_10_2021_20_12_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_10_2021_20_12_[Changes]1/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_10_2021_20_12__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_10_2021_20_17_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_10_2021_20_17__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_3/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_3/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_3/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_3/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_3/Orange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/HW_2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/HW_2/MyArrayDataException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/HW_2/MyArraySizeException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Lesson_3/Apple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Lesson_3/Array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Lesson_3/Box.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Lesson_3/Fruit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Lesson_3/Orange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b8cc1782-e8b9-4bea-be01-77997849899a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +49,7 @@
       <recent name="Lesson_HW" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\HW_3" />
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\Homework_2" />
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\HW_1" />
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\Lesson_HW_1 " />
@@ -79,7 +58,7 @@
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Array (1)">
+  <component name="RunManager" selected="Application.Box (1)">
     <configuration name="Array (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW_3.Array" />
       <module name="J_Core" />
@@ -159,6 +138,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Box" />
       <item itemvalue="Application.Array" />
@@ -167,9 +147,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Array (1)" />
         <item itemvalue="Application.Box (1)" />
         <item itemvalue="Application.Box" />
+        <item itemvalue="Application.Array (1)" />
         <item itemvalue="Application.Array" />
         <item itemvalue="Application.Main (3)" />
       </list>
