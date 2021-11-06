@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8cc1782-e8b9-4bea-be01-77997849899a" name="Changes" comment="some addings to 4">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_11_2021_21_42__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_04_11_2021_14_36_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_04_11_2021_14_36__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_04_11_2021_14_37_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_04_11_2021_14_37__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2021_16_34_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2021_16_34__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_6/Lesson_6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_6/Lesson_6.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,13 +32,10 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="Lesson_5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1zoW8VFzNaWhgAolk6MF7Ql5pkh" />
   <component name="ProjectLevelVcsManager">
@@ -61,17 +68,16 @@
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\Lesson_HW_1 " />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Lenovo\Desktop\Git_JC" />
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AppDataH">
-    <configuration name="AppData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_5.AppData" />
+  <component name="RunManager" selected="Application.Box">
+    <configuration name="AppDataH" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_5.AppDataH" />
       <module name="J_Core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_5.*" />
+          <option name="PATTERN" value="HW_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppDataH" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_5.AppDataH" />
+    <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_3.Box" />
       <module name="J_Core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_5.*" />
+          <option name="PATTERN" value="Lesson_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,16 +143,16 @@
       <item itemvalue="Application.PhoneBook_1" />
       <item itemvalue="Application.WordsArr (1)" />
       <item itemvalue="Application.PhoneBook" />
-      <item itemvalue="Application.AppData" />
       <item itemvalue="Application.AppDataH" />
+      <item itemvalue="Application.Box" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Box" />
         <item itemvalue="Application.AppDataH" />
-        <item itemvalue="Application.AppData" />
         <item itemvalue="Application.PhoneBook" />
-        <item itemvalue="Application.PhoneBook_1" />
         <item itemvalue="Application.WordsArr (1)" />
+        <item itemvalue="Application.PhoneBook_1" />
       </list>
     </recent_temporary>
   </component>
@@ -159,14 +165,6 @@
       <option name="presentableId" value="Default" />
       <updated>1634814769500</updated>
     </task>
-    <task id="LOCAL-00001" summary="some addings to 4">
-      <created>1635854994959</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1635854994959</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,8 +181,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="some addings to 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="some addings to 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -198,19 +194,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/Lesson_3/Box.java</url>
           <line>11</line>
           <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/HW_5/AppDataH.java</url>
-          <line>1</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/Lesson_5/AppData.java</url>
-          <line>91</line>
-          <properties class="Lesson_5.AppData">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
