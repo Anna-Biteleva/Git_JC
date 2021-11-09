@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b8cc1782-e8b9-4bea-be01-77997849899a" name="Changes" comment="some addings to 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_7/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_7/Main_web.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -49,6 +49,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Lesson_7.project" />
       <recent name="Lesson_2" />
       <recent name="Lesson_HW" />
     </key>
@@ -63,13 +64,25 @@
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Box">
-    <configuration name="AppDataH" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_5.AppDataH" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="AccuweatherModel (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_7.project.AccuweatherModel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_7.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccuweatherModel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_7.project.AccuweatherModel" />
       <module name="J_Core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_5.*" />
+          <option name="PATTERN" value="Lesson_7.project.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,25 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_4.PhoneBook" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_7.project.Main" />
       <module name="J_Core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WordsArr (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_4.WordsArr" />
-      <module name="J_Core" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW_4.*" />
+          <option name="PATTERN" value="Lesson_7.project.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,19 +130,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.WordsArr (1)" />
-      <item itemvalue="Application.PhoneBook" />
-      <item itemvalue="Application.AppDataH" />
       <item itemvalue="Application.Box" />
       <item itemvalue="Application.accuWeather" />
+      <item itemvalue="Application.AccuweatherModel" />
+      <item itemvalue="Application.AccuweatherModel (1)" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.AccuweatherModel" />
+        <item itemvalue="Application.AccuweatherModel (1)" />
         <item itemvalue="Application.Box" />
         <item itemvalue="Application.accuWeather" />
-        <item itemvalue="Application.AppDataH" />
-        <item itemvalue="Application.PhoneBook" />
-        <item itemvalue="Application.WordsArr (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -184,6 +184,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/Lesson_3/Box.java</url>
           <line>11</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Lesson_7/project/Main.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Lesson_7/project/AccuweatherModel.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/Lesson_3/Box.java</url>
