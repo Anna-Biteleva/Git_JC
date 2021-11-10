@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="J_Core" options="--add-exports java.base/jdk.internal.icu.text=ALL-UNNAMED" />
+      <module name="J_Core" options="" />
     </option>
   </component>
 </project>
