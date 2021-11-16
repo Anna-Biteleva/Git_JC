@@ -39,7 +39,7 @@ public class Controller {
                 break;
 
                 case DB:
-                weatherModel.getSavedToDBWeather();
+                weatherModel.getSavedToDBWeather(selectedCity);
                 break;
         }
     }

@@ -66,9 +66,7 @@ select * from weather where  city ='Saint';]]></console>
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files>
-      <object connection-id="7bc2f32f-055b-41c4-bc2f-90c6464a7b65" object-ref="consoles/Connection" />
-    </open-files>
+    <open-files />
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="7bc2f32f-055b-41c4-bc2f-90c6464a7b65" />

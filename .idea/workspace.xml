@@ -5,25 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8cc1782-e8b9-4bea-be01-77997849899a" name="Changes" comment="some addings to 4">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2021_16_36_[Changes]/Lesson_6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2021_16_36_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2021_16_36__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekbrains.db" beforeDir="false" afterPath="$PROJECT_DIR$/geekbrains.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_7/project/AccuweatherModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/project/AccuweatherModel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_7/project/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/project/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_7/project/DaysNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/project/DaysNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_7/project/Forecast.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_7/project/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/project/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_7/project/UserInterfaceView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/project/UserInterfaceView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_7/project/DataBaseRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/project/DataBaseRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_7/project/WeatherModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/project/WeatherModel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Lesson_7/project/AccuweatherModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_7/project/AccuweatherModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_7/project/Controller$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_7/project/Controller$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Lesson_7/project/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_7/project/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_7/project/DaysNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_7/project/DaysNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_7/project/UserInterfaceView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_7/project/UserInterfaceView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_7/project/DataBaseRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_7/project/DataBaseRepository.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Lesson_7/project/WeatherModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_7/project/WeatherModel.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +52,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/HW_4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/HW_8/project" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -74,14 +65,17 @@
       <recent name="Lesson_HW" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\HW_8\project" />
+      <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\HW_8" />
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\HW_4" />
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\HW_3" />
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\Homework_2" />
-      <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\HW_1" />
-      <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\Lesson_HW_1 " />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="HW_8.project.entity" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
@@ -104,6 +98,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lesson_7.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_8.project.Main" />
+      <module name="J_Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW_8.project.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,33 +144,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordsArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_4.WordsArr" />
-      <module name="J_Core" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson_4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.WordsArr" />
       <item itemvalue="Application.DataBaseRepository" />
       <item itemvalue="Application.SqliteExamples" />
       <item itemvalue="Application.Box" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.DataBaseRepository" />
         <item itemvalue="Application.SqliteExamples" />
         <item itemvalue="Application.Box" />
-        <item itemvalue="Application.WordsArr" />
       </list>
     </recent_temporary>
   </component>
@@ -231,6 +225,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Lesson_7/project/Main.java</url>
+          <line>4</line>
+          <properties class="Lesson_7.project.Main" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
