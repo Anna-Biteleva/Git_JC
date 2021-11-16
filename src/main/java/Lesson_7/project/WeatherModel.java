@@ -1,10 +1,14 @@
 package Lesson_7.project;
+
 import java.io.IOException;
 
-import java.util.List;
-public interface WeatherModel {
-    void getWeather(String selectedCity, DaysNumber period) throws IOException;
+import java.sql.SQLException;
 
- //   public List<Weather> getSavedToDBWeather();
+public interface WeatherModel {
+
+    void getWeather(String selectedCity, DaysNumber period) throws IOException, SQLException;
+
+      public void getSavedToDBWeather();
+
 
 }

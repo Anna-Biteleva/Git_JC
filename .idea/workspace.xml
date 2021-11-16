@@ -6,8 +6,25 @@
   <component name="ChangeListManager">
     <list default="true" id="b8cc1782-e8b9-4bea-be01-77997849899a" name="Changes" comment="some addings to 4">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2021_16_36_[Changes]/Lesson_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2021_16_36_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2021_16_36__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_7/project/AccuweatherModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/project/AccuweatherModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_7/project/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/project/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_7/project/DaysNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/project/DaysNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_7/project/Forecast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_7/project/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/project/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_7/project/UserInterfaceView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/project/UserInterfaceView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_7/project/WeatherModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/project/WeatherModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_7/project/AccuweatherModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_7/project/AccuweatherModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_7/project/Controller$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_7/project/Controller$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_7/project/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_7/project/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_7/project/DaysNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_7/project/DaysNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_7/project/UserInterfaceView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_7/project/UserInterfaceView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_7/project/WeatherModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_7/project/WeatherModel.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,37 +85,25 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
-    <configuration name="AccuweatherModel (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_7.project.AccuweatherModel" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson_7.project.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AccuweatherModel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_7.project.AccuweatherModel" />
-      <module name="J_Core" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson_7.project.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson_3.Box" />
       <module name="J_Core" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lesson_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataBaseRepository" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_7.project.DataBaseRepository" />
+      <module name="J_Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_7.project.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +124,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="accuWeather" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_6.accuWeather" />
+    <configuration name="SqliteExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_8.SqliteExamples" />
       <module name="J_Core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_6.*" />
+          <option name="PATTERN" value="Lesson_8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordsArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_4.WordsArr" />
+      <module name="J_Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,19 +151,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Box" />
-      <item itemvalue="Application.accuWeather" />
-      <item itemvalue="Application.AccuweatherModel" />
-      <item itemvalue="Application.AccuweatherModel (1)" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.WordsArr" />
+      <item itemvalue="Application.DataBaseRepository" />
+      <item itemvalue="Application.SqliteExamples" />
+      <item itemvalue="Application.Box" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.AccuweatherModel" />
-        <item itemvalue="Application.AccuweatherModel (1)" />
+        <item itemvalue="Application.DataBaseRepository" />
+        <item itemvalue="Application.SqliteExamples" />
         <item itemvalue="Application.Box" />
-        <item itemvalue="Application.accuWeather" />
+        <item itemvalue="Application.WordsArr" />
       </list>
     </recent_temporary>
   </component>
@@ -194,9 +212,9 @@
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Lesson_7/project/AccuweatherModel.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="21" />
+          <url>file://$PROJECT_DIR$/src/main/java/Lesson_7/project/Main.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/Lesson_3/Box.java</url>
@@ -205,6 +223,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Lesson_8/SqliteExamples.java</url>
+          <line>10</line>
+          <properties class="Lesson_8.SqliteExamples" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
