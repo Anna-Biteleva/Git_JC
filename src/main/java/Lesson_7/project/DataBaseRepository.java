@@ -1,12 +1,11 @@
 package Lesson_7.project;
 
-import java.io.Reader;
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -18,7 +17,10 @@ import Lesson_7.project.entity.Weather;
     public class DataBaseRepository {
 
         private String insertWeather = "insert into weather (city, localDate, temperature) values (?, ?, ?)";
-        private String getWeather = "select * from weather; ";
+      //  private String getWeather = "select * from weather; ";
+
+
+
         private static final String DB_PATH = "jdbc:sqlite:geekbrains.db";
 
         static {
@@ -32,13 +34,11 @@ import Lesson_7.project.entity.Weather;
         public boolean saveWeatherToDataBase(Weather weather) throws SQLException {
 
             try (Connection connection = DriverManager.getConnection(DB_PATH)) {
-                //  connection.setAutoCommit(false);
                 PreparedStatement saveWeather = connection.prepareStatement(insertWeather);
                 saveWeather.setString(1, weather.getCity());
                 saveWeather.setString(2, weather.getLocalDate());
                 saveWeather.setDouble(3, weather.getTemperature());
-
-                //connection.close();
+               // connection.close();
                 return saveWeather.execute();
 
             } catch (SQLException throwables) {
@@ -49,14 +49,14 @@ import Lesson_7.project.entity.Weather;
         }
 
 
-        public List<Weather> getSavedToDBWeather() {
+        public List<Weather> getSavedToDBWeather(String city) {
             System.out.println("****************");
             List<Weather> weathers = new ArrayList<>();
             try (Connection connection = DriverManager.getConnection(DB_PATH)) {
-                Statement statement = connection.createStatement();
-                ResultSet resultSet = statement.executeQuery(getWeather);
+                PreparedStatement getDBWeather = connection.prepareStatement("select * from weather where city =?");
+                getDBWeather.setString(1, city);
+                ResultSet resultSet= getDBWeather.executeQuery();
 
-                //ResultSet resultSet = statement.executeQuery("select * from weather where city = city");
 
                 while (resultSet.next()) {
                     //   System.out.print(resultSet.getInt("id"));

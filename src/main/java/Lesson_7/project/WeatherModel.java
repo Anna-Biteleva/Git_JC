@@ -8,7 +8,7 @@ public interface WeatherModel {
 
     void getWeather(String selectedCity, DaysNumber period) throws IOException, SQLException;
 
-      public void getSavedToDBWeather();
+      public void getSavedToDBWeather(String city);
 
 
 }

@@ -156,9 +156,9 @@ public class AccuweatherModel  implements WeatherModel {
     }
 
     @Override
-    public void getSavedToDBWeather() {
+    public void getSavedToDBWeather(String city) {
 
-        dataBaseRepository.getSavedToDBWeather();
+        dataBaseRepository.getSavedToDBWeather(city);
 
     }
 }
