@@ -7,15 +7,6 @@
     <list default="true" id="b8cc1782-e8b9-4bea-be01-77997849899a" name="Changes" comment="some addings to 4">
       <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekbrains.db" beforeDir="false" afterPath="$PROJECT_DIR$/geekbrains.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_7/project/AccuweatherModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/project/AccuweatherModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_7/project/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/project/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_7/project/DataBaseRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/project/DataBaseRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_7/project/WeatherModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/project/WeatherModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_7/project/AccuweatherModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_7/project/AccuweatherModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_7/project/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_7/project/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_7/project/DataBaseRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_7/project/DataBaseRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_7/project/WeatherModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_7/project/WeatherModel.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +43,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/HW_8/project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/HW_8" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -65,8 +56,8 @@
       <recent name="Lesson_HW" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\HW_8\project" />
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\HW_8" />
+      <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\HW_8\project" />
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\HW_4" />
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\HW_3" />
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src\main\java\Homework_2" />
@@ -78,7 +69,7 @@
       <recent name="HW_8.project.entity" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson_3.Box" />
       <module name="J_Core" />
@@ -153,8 +144,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.DataBaseRepository" />
         <item itemvalue="Application.SqliteExamples" />
         <item itemvalue="Application.Box" />
