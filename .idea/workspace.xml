@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8cc1782-e8b9-4bea-be01-77997849899a" name="Changes" comment="some addings to 4">
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b8cc1782-e8b9-4bea-be01-77997849899a" name="Changes" comment="some addings to 4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,8 +13,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -43,6 +41,8 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/HW_8" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -65,24 +65,17 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Lenovo\Desktop\Git_JC\src" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Lesson_9" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="HW_8.project.entity" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_3.Box" />
-      <module name="J_Core" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="DataBaseRepository" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson_7.project.DataBaseRepository" />
       <module name="J_Core" />
@@ -102,6 +95,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="HW_8.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_9.Main" />
+      <module name="J_Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,16 +145,16 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.DataBaseRepository" />
       <item itemvalue="Application.SqliteExamples" />
-      <item itemvalue="Application.Box" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DataBaseRepository" />
         <item itemvalue="Application.SqliteExamples" />
-        <item itemvalue="Application.Box" />
       </list>
     </recent_temporary>
   </component>
@@ -224,6 +230,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Lesson_9/Main.java</url>
+          <line>10</line>
+          <properties class="Lesson_9.Main" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
